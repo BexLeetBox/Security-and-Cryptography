@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
 }</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
@@ -13,6 +19,8 @@
       <change beforePath="$PROJECT_DIR$/../Oving-4/hello" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Oving-4/hello.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Oving-4/hello.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +29,14 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.1" />
   </component>
   <component name="ProjectId" id="2W7Gwxxv4CYZq07hOqpEhsbXJye" />
   <component name="ProjectViewState">
@@ -35,7 +51,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "F:/Security and cryptography/Oving-5",
+    "last_opened_file_path": "F:/oppgave-5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -53,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696076446258</updated>
       <workItem from="1696076447392" duration="2636000" />
-      <workItem from="1696114304181" duration="346000" />
+      <workItem from="1696114304181" duration="1532000" />
     </task>
     <servers />
   </component>

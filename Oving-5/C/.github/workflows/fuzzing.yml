@@ -1,0 +1,27 @@
+name: Fuzzing with AddressSanitizer
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  fuzzing:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Install clang and llvm
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y clang llvm libfuzzer-10-dev
+
+    - name: Compile and fuzz
+      run: |
+        clang++ -fsanitize=address,fuzzer YOUR_CODE_FILE.cpp -o fuzzer
+        ./fuzzer -runs=10000

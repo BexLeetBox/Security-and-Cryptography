@@ -1,0 +1,26 @@
+image: archlinux:latest
+
+stages:
+  - test
+
+cache:
+  paths:
+    - /var/cache/pacman/pkg/
+
+before_script:
+  - pacman -Syu --noconfirm
+  - pacman -S clang cmake make --noconfirm
+  - mkdir -p build && cd build
+  - CC=clang cmake ..
+
+fuzzer-testing:
+  stage: test
+  script:
+    - make
+    - ./tests/utility_fuzzer_test -max_total_time=60
+
+manual-testing:
+  stage: test
+  script:
+    - make
+    - ./tests/replacer_test

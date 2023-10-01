@@ -1,5 +1,0 @@
-F:/Security and cryptography/Oving-5/C/cmake-build-debug/CMakeFiles/Replacer.dir
-F:/Security and cryptography/Oving-5/C/cmake-build-debug/CMakeFiles/replacer_test.dir
-F:/Security and cryptography/Oving-5/C/cmake-build-debug/CMakeFiles/utility_fuzzer_test.dir
-F:/Security and cryptography/Oving-5/C/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Security and cryptography/Oving-5/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir

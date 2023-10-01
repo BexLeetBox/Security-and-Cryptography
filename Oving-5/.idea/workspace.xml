@@ -9,6 +9,9 @@
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
@@ -19,8 +22,52 @@
       <change beforePath="$PROJECT_DIR$/../Oving-4/hello" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Oving-4/hello.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Oving-4/hello.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Oving-5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/.github/workflows/fuzzing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/Replacer.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/Replacer.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/reply/cache-v2-71cc50ac05f95fcbcb28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7212f12eefccf1ab1baa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1e7e82b3413c0f2df93a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-30T23-40-38-0455.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/reply/target-Replacer-Debug-7e96c59d566d824cdcc6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/reply/target-replacer_test-Debug-a3e8da11c6cdbce46543.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/reply/target-utility_fuzzer_test-Debug-509f7fabd3cc50857b15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-1bb4306cd84ec5dd6045.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/fuzzer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/test_replacer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/tests/replacer_test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C/tests/utility_fuzzer_test.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +77,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -60,6 +108,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696076446258</updated>
       <workItem from="1696076447392" duration="2636000" />
-      <workItem from="1696114304181" duration="1532000" />
+      <workItem from="1696114304181" duration="2149000" />
     </task>
     <servers />
   </component>

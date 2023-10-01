@@ -47,19 +47,3 @@ char* replace_special_chars(const char* input) {
 
     return output;
 }
-
-
-#if !defined(TEST) && !defined(FUZZING)
-int main() {
-    char input[] = "Hello & World < Test > &";
-    char* result = replace_special_chars(input);
-
-    if (result) {
-        printf("Original: %s\n", input);
-        printf("Modified: %s\n", result);
-        free(result);  
-    }
-
-    return 0;
-}
-#endif
